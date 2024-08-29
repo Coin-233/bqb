@@ -1,0 +1,6 @@
+[submodule "bqb-server"]
+	path = bqb-server
+	url = https://github.com/Coin-233/bqb-server.git
+[submodule "bqb-client"]
+	path = bqb-client
+	url = https://github.com/Coin-233/bqb-client.git
